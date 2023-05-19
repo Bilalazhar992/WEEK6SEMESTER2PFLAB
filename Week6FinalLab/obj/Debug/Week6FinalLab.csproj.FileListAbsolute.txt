@@ -1,0 +1,14 @@
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.exe.config
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.exe
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.pdb
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.csproj.AssemblyReference.cache
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.csproj.CoreCompileInputs.cache
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.exe
+C:\Users\uet\source\repos\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.exe.config
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\bin\Debug\Week6FinalLab.pdb
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.csproj.AssemblyReference.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.csproj.CoreCompileInputs.cache
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.exe
+C:\Users\uet\Desktop\PRACTICING C SHARP\Week6FinalLab\Week6FinalLab\obj\Debug\Week6FinalLab.pdb
